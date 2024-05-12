@@ -4,36 +4,31 @@
             "id": 1,
             "name": "Atlas",
             "city": "Marrakech, Morocco",
-            "description": "atlas description",
-            "experiences_count": 1
+            "description": "atlas description"
         },
         {
             "id": 2,
             "name": "Toubkal",
             "city": "Marrakech, Morocco",
-            "description": "Toubkal description",
-            "experiences_count": 2
+            "description": "Toubkal description"
         },
         {
             "id": 3,
             "name": "Oukaimeden",
             "city": "Marrakech, Morocco",
-            "description": "Oukaimeden description",
-            "experiences_count": 0
+            "description": "Oukaimeden description"
         },
         {
             "id": 4,
             "name": "Ourika",
             "city": "Marrakech, Morocco",
-            "description": "Ourika description",
-            "experiences_count": 1
+            "description": "Ourika description"
         },
         {
             "id": 5,
             "name": "Imlil",
             "city": "Marrakech, Morocco",
-            "description": "Imlil description",
-            "experiences_count": 1
+            "description": "Imlil description"
         }
     ],
     "experiences": [
