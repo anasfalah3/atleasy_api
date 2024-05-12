@@ -4,31 +4,36 @@
             "id": 1,
             "name": "Atlas",
             "city": "Marrakech, Morocco",
-            "description": "atlas description"
+            "description": "atlas description",
+            "img":"https://i.postimg.cc/y8Xn1xLd/atlas.jpg"
         },
         {
             "id": 2,
             "name": "Toubkal",
             "city": "Marrakech, Morocco",
-            "description": "Toubkal description"
+            "description": "Toubkal description",
+            "img":"https://i.postimg.cc/g2dqTdGP/toubkal.jpg"
         },
         {
             "id": 3,
             "name": "Oukaimeden",
             "city": "Marrakech, Morocco",
-            "description": "Oukaimeden description"
+            "description": "Oukaimeden description",
+            "img":"https://i.postimg.cc/0270nrRf/oukaimeden.jpg"
         },
         {
             "id": 4,
             "name": "Ourika",
             "city": "Marrakech, Morocco",
-            "description": "Ourika description"
+            "description": "Ourika description",
+            "img":"https://i.postimg.cc/Ls8kmTqC/ourika.jpg"
         },
         {
             "id": 5,
             "name": "Imlil",
             "city": "Marrakech, Morocco",
-            "description": "Imlil description"
+            "description": "Imlil description",
+            "img":"https://i.postimg.cc/907tvQ4c/berber1.jpg"
         }
     ],
     "experiences": [
@@ -38,12 +43,8 @@
             "title": "Half-Day adventure Trekking",
             "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
             "price": "25.00",
-            "location": {
-                "id": 5,
-                "name": "Imlil",
-                "city": "Marrakech, Morocco",
-                "description": "Imlil description"
-            }
+            "city": "Imlil, Marrakech",
+            "img":"https://i.postimg.cc/g0gDh5Fb/atlas1.jpg"
         },
         {
             "id": 4,
@@ -51,12 +52,8 @@
             "title": "2 day mount toubkal trek",
             "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
             "price": "325.94",
-            "location": {
-                "id": 2,
-                "name": "Toubkal",
-                "city": "Marrakech, Morocco",
-                "description": "Toubkal description"
-            }
+            "city": "Toubkal, Marrakech",
+            "img":"https://i.postimg.cc/Nj47hV02/toubkal1.jpg"
         },
         {
             "id": 5,
@@ -64,12 +61,8 @@
             "title": "3 day Toubkal Trek via Azzaden",
             "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
             "price": "400.00",
-            "location": {
-                "id": 2,
-                "name": "Toubkal",
-                "city": "Marrakech, Morocco",
-                "description": "Toubkal description"
-            }
+            "city": "Toubkal, Marrakech, Morocco",
+            "img":"https://i.postimg.cc/4dn1Q5s7/atlas4.jpg"
         },
         {
             "id": 6,
@@ -77,12 +70,8 @@
             "title": "Atlas Mountains and 3 Valleys",
             "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
             "price": "125.00",
-            "location": {
-                "id": 1,
-                "name": "Atlas",
-                "city": "Marrakech, Morocco",
-                "description": "atlas description"
-            }
+            "city": "Atlas, Marrakech",
+            "img":"https://i.postimg.cc/907tvQ4c/berber1.jpg"
         },
         {
             "id": 7,
@@ -90,12 +79,8 @@
             "title": "Ourika Valley Day Trip From Marrakech",
             "description": "Half-Day adventure Trekking\\', \\'Pellentesque in ipsum id orci porta dapibus. \\\\r\\\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\\\r\\\\n        congue leo eget malesuada. \\\\r\\\\n        \\\\\\\\n\\\\\\\\nPraesent sapien massa, convallis a pellentesque \\\\r\\\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\\\r\\\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\\\r\\\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\\\r\\\\n        \\\\\\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\\\r\\\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
             "price": "89.00",
-            "location": {
-                "id": 4,
-                "name": "Ourika",
-                "city": "Marrakech, Morocco",
-                "description": "Ourika description"
-            }
+            "city": "Ourika, Marrakech",
+            "img":"https://i.postimg.cc/kM0yWKZG/ourika1.jpg"
         }
     ]
 }
