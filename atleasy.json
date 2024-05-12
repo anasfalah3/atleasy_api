@@ -1,0 +1,106 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Atlas",
+            "city": "Marrakech, Morocco",
+            "description": "atlas description",
+            "experiences_count": 1
+        },
+        {
+            "id": 2,
+            "name": "Toubkal",
+            "city": "Marrakech, Morocco",
+            "description": "Toubkal description",
+            "experiences_count": 2
+        },
+        {
+            "id": 3,
+            "name": "Oukaimeden",
+            "city": "Marrakech, Morocco",
+            "description": "Oukaimeden description",
+            "experiences_count": 0
+        },
+        {
+            "id": 4,
+            "name": "Ourika",
+            "city": "Marrakech, Morocco",
+            "description": "Ourika description",
+            "experiences_count": 1
+        },
+        {
+            "id": 5,
+            "name": "Imlil",
+            "city": "Marrakech, Morocco",
+            "description": "Imlil description",
+            "experiences_count": 1
+        }
+    ],
+    "experiences": [
+        {
+            "id": 3,
+            "location_id": 5,
+            "title": "Half-Day adventure Trekking",
+            "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "price": "25.00",
+            "location": {
+                "id": 5,
+                "name": "Imlil",
+                "city": "Marrakech, Morocco",
+                "description": "Imlil description"
+            }
+        },
+        {
+            "id": 4,
+            "location_id": 2,
+            "title": "2 day mount toubkal trek",
+            "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "price": "325.94",
+            "location": {
+                "id": 2,
+                "name": "Toubkal",
+                "city": "Marrakech, Morocco",
+                "description": "Toubkal description"
+            }
+        },
+        {
+            "id": 5,
+            "location_id": 2,
+            "title": "3 day Toubkal Trek via Azzaden",
+            "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "price": "400.00",
+            "location": {
+                "id": 2,
+                "name": "Toubkal",
+                "city": "Marrakech, Morocco",
+                "description": "Toubkal description"
+            }
+        },
+        {
+            "id": 6,
+            "location_id": 1,
+            "title": "Atlas Mountains and 3 Valleys",
+            "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "price": "125.00",
+            "location": {
+                "id": 1,
+                "name": "Atlas",
+                "city": "Marrakech, Morocco",
+                "description": "atlas description"
+            }
+        },
+        {
+            "id": 7,
+            "location_id": 4,
+            "title": "Ourika Valley Day Trip From Marrakech",
+            "description": "Half-Day adventure Trekking\\', \\'Pellentesque in ipsum id orci porta dapibus. \\\\r\\\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\\\r\\\\n        congue leo eget malesuada. \\\\r\\\\n        \\\\\\\\n\\\\\\\\nPraesent sapien massa, convallis a pellentesque \\\\r\\\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\\\r\\\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\\\r\\\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\\\r\\\\n        \\\\\\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\\\r\\\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "price": "89.00",
+            "location": {
+                "id": 4,
+                "name": "Ourika",
+                "city": "Marrakech, Morocco",
+                "description": "Ourika description"
+            }
+        }
+    ]
+}
