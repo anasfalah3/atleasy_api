@@ -38,34 +38,34 @@
     ],
     "experiences": [
         {
-            "id": 3,
+            "id": 1,
             "location_id": 5,
             "title": "Half-Day adventure Trekking",
-            "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "description": "Embark on our Half-Day Adventure Trekking tour for an unforgettable journey through nature's wonders. With expert guides leading the way, you'll navigate rugged terrain, dense forests, and stunning vistas. From challenging inclines to tranquil valleys, each step promises excitement and discovery. Join us for a thrilling outdoor experience tailored to your skill level and interests.",
             "price": "25.00",
             "city": "Imlil, Marrakech",
             "img":"https://i.postimg.cc/g0gDh5Fb/atlas1.jpg"
         },
         {
-            "id": 4,
+            "id": 2,
             "location_id": 2,
             "title": "2 day mount toubkal trek",
-            "description": "Pellentesque in ipsum id orci porta dapibus. \r\n        Nulla porttitor accumsan tincidunt. Donec rutrum \r\n        congue leo eget malesuada. \r\n        \\n\\nPraesent sapien massa, convallis a pellentesque \r\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \r\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \r\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \r\n        \\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \r\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "description": "Embark on our 2-Day Mount Toubkal Trek in Morocco's High Atlas Mountains. Led by experienced guides, you'll ascend to the summit, passing through scenic valleys and traditional villages. Spend the night at the Toubkal Refuge before an early morning push to the peak. Witness breathtaking sunrise views before descending. This trek offers a challenging yet rewarding adventure in a stunning natural setting.",
             "price": "325.94",
             "city": "Toubkal, Marrakech",
             "img":"https://i.postimg.cc/Nj47hV02/toubkal1.jpg"
         },
         {
-            "id": 5,
+            "id": 3,
             "location_id": 2,
             "title": "3 day Toubkal Trek via Azzaden",
-            "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "description": "Join us for the unforgettable 3-Day Toubkal Trek via Azzaden! Trek through the stunning High Atlas Mountains of Morocco on a journey that combines adventure, culture, and breathtaking scenery.Day one begins with a scenic drive to the village of Imlil, the starting point of our trek. From there, we'll embark on a picturesque hike through the Azzaden Valley, passing by traditional Berber villages and lush greenery. As we ascend, marvel at the panoramic views of snow-capped peaks and cascading waterfalls.",
             "price": "400.00",
             "city": "Toubkal, Marrakech, Morocco",
             "img":"https://i.postimg.cc/4dn1Q5s7/atlas4.jpg"
         },
         {
-            "id": 6,
+            "id": 4,
             "location_id": 1,
             "title": "Atlas Mountains and 3 Valleys",
             "description": "Half-Day adventure Trekking', 'Pellentesque in ipsum id orci porta dapibus. \\r\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\r\\n        congue leo eget malesuada. \\r\\n        \\\\n\\\\nPraesent sapien massa, convallis a pellentesque \\r\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\r\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\r\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\r\\n        \\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\r\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
@@ -74,10 +74,10 @@
             "img":"https://i.postimg.cc/907tvQ4c/berber1.jpg"
         },
         {
-            "id": 7,
+            "id": 5,
             "location_id": 4,
             "title": "Ourika Valley Day Trip From Marrakech",
-            "description": "Half-Day adventure Trekking\\', \\'Pellentesque in ipsum id orci porta dapibus. \\\\r\\\\n        Nulla porttitor accumsan tincidunt. Donec rutrum \\\\r\\\\n        congue leo eget malesuada. \\\\r\\\\n        \\\\\\\\n\\\\\\\\nPraesent sapien massa, convallis a pellentesque \\\\r\\\\n        nec, egestas non nisi. Donec rutrum congue leo eget malesuada. \\\\r\\\\n        Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. \\\\r\\\\n        Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. \\\\r\\\\n        \\\\\\\\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. \\\\r\\\\n        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+            "description": "Explore the stunning beauty of the Atlas Mountains and discover the charm of the Three Valleys on our guided tour. Begin your journey by venturing into the heart of the Atlas Mountains, where rugged peaks and verdant valleys await. As you wind your way through this majestic landscape, marvel at the breathtaking scenery and immerse yourself in the tranquility of nature. Next, embark on a journey through the Three Valleys, each offering its own unique beauty and allure. Traverse lush forests, meandering rivers, and fertile farmland as you explore the diverse landscapes of this enchanting region.",
             "price": "89.00",
             "city": "Ourika, Marrakech",
             "img":"https://i.postimg.cc/kM0yWKZG/ourika1.jpg"
